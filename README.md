@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/zlsu.zip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+  <a href="https://www.instagram.com/zlcoding_zip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
   
   <img src="https://img.shields.io/badge/zlsu.zip@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>  
