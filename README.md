@@ -57,6 +57,8 @@ Here are some ideas to get you started:
   
   :globe_with_meridians:<a href="https://github.com/nunbub/Marondalgram">SNS Project</a>:globe_with_meridians:
   
+  :dog2:<a href="https://github.com/nunbub/PatPet">Pat, Pet Project</a>:dog2:
+  
 </div>  
 
 <div align="center">
