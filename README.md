@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.instagram.com/zlsu.zip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
   
-  <img src="https://img.shields.io/badge/ryujisu519@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zlsu.zip@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>  
 
 
@@ -45,6 +45,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4053D6?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</div>  
+
+<div align="center"> 
+  :mortar_board:Project:mortar_board:  
+</div>
+
+<div align="center">
+  
+  :memo:<a href="https://github.com/nunbub/Memo">Memo Project</a>:memo:
+  
+  :globe_with_meridians:<a href="https://github.com/nunbub/Marondalgram">SNS Project</a>:globe_with_meridians:
+  
 </div>  
 
 <div align="center">
